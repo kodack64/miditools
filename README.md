@@ -1,14 +1,10 @@
-miditools
+midi関連のツール
 =========
 
-midi�̏������݂ō�����F�X
+midiの処理絡みで作った色々
 
-*Bulk2Style
-�o���N�t�@�C���̖��[����Midi�t�@�C���̊J�n������T���ă��[�U���Y���X�^�C����؂�o���B
+*Bulk2Style バルクファイルの末端からMidiファイルの開始文字を探してユーザリズムスタイルを切り出す。
 
-*MidiAddSysex
-midi�̓��ɃV�X�e���G�N�X�N���[�V�u��t�������܂��B
+*MidiAddSysex midiの頭にシステムエクスクルーシブを付け足します。
 
-*MidiRecord.java
-*MidiExConvert.java
-(���ELS�����)midi�M�����󂯎���ă��X�g�ɂ��邽�߂̕⏕�c�[���ł�
+*MidiRecord.java *MidiExConvert.java (主にELSからの)midi信号を受け取ってリストにするための補助ツールです
