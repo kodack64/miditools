@@ -1,4 +1,4 @@
-miditools
+miditools for electone STAGEA
 =========
 
 ヤマハの電子オルガン、ステージアのmidiの処理絡みで作った色々です。javaで書かれています。
