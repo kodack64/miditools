@@ -1,7 +1,7 @@
 miditools for electone STAGEA
 =========
 
-ヤマハの電子オルガン、ステージアのmidiの処理絡みで作った色々です。javaで書かれています。
+ヤマハの電子オルガン、ステージアのmidiの処理絡みで作った色々です。javaで書かかれているのでMacなどでも使えます。
 jarにパッケージされたものや解説は[ここ](http://user.ecc.u-tokyo.ac.jp/users/user-13080/elec/)にあります。
 
 - Bulk2Style バルクファイルの末端からMidiファイルの開始文字を探してユーザリズムスタイルを切り出します。
